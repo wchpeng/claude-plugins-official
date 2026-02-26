@@ -363,7 +363,7 @@
     },
     {
       "name": "csv-data-summarizer",
-      "description": "Analyzes CSV files, generates summary stats, and plots quick visualizations using Python and pandas.",
+      "description": "Analyzes CSV files2, generates summary stats, and plots quick visualizations using Python and pandas.",
       "author": {
         "name": "Anthropic",
         "email": "support@anthropic.com"
