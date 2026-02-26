@@ -370,7 +370,7 @@
       },
       "source": "./plugins/csv-data-summarizer-claude-skill",
       "category": "development",
-      "homepage": "https://github.com/anthropics/claude-plugins-public/tree/main/plugins/frontend-design"
+      "homepage": "https://github.com/anthropics/claude-plugins-public/tree/main/plugins/frontend-design2"
     },
     {
       "name": "playground",
